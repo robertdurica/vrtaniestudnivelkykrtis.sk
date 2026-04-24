@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vrtaniestudnivelkykrtis.sk/sitemap.xml
